@@ -1,4 +1,4 @@
-const site_url = process.env.NEXT_PUBLIC_APP_URL || 'https://the-portfolio-lac.vercel.app'
+const site_url = process.env.NEXT_PUBLIC_APP_URL || 'https://portfolio-101-five.vercel.app'
 
 export const siteConfig = {
 	name: 'Muhafs | Full Stack Developer',
