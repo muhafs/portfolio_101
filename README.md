@@ -8,20 +8,20 @@ This project is a portfolio website template showcasing skills, projects, and ex
 
 ## ✨ Features
 
-- **Responsive Design**: Optimized for various screen sizes and devices.
-- **Interactive Animations**: Smooth and engaging animations using Framer Motion.
-- **SEO Optimized**: Built with best practices for search engine optimization.
-- **Fast Performance**: Optimized for fast loading times and performance.
-- **Accessible**: Follows accessibility best practices to ensure a great experience for all users.
+-   **Responsive Design**: Optimized for various screen sizes and devices.
+-   **Interactive Animations**: Smooth and engaging animations using Framer Motion.
+-   **SEO Optimized**: Built with best practices for search engine optimization.
+-   **Fast Performance**: Optimized for fast loading times and performance.
+-   **Accessible**: Follows accessibility best practices to ensure a great experience for all users.
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework**: Next.js 15
-- **UI Library**: React 19
-- **Type Safety**: TypeScript
-- **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **Code Quality**: ESLint & Prettier
+-   **Frontend Framework**: Next.js 15
+-   **UI Library**: React 19
+-   **Type Safety**: TypeScript
+-   **Styling**: Tailwind CSS
+-   **Animations**: Framer Motion
+-   **Code Quality**: ESLint & Prettier
 
 ## 📁 Project Structure
 
@@ -53,57 +53,57 @@ This project is a portfolio website template showcasing skills, projects, and ex
 
 ### Technologies Used
 
-- **Next.js**: A React framework for server-side rendering and static site generation.
-- **React**: A JavaScript library for building user interfaces.
-- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+-   **Next.js**: A React framework for server-side rendering and static site generation.
+-   **React**: A JavaScript library for building user interfaces.
+-   **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+-   **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
 
 ### Key Files and Directories
 
-- **`app`**: Contains the main application components.
-- **`components`**: Contains reusable UI components.
-- **`utils`**: Contains utility functions.
-- **`src/dummy.json`**: Contains dummy data for the portfolio.
+-   **`app`**: Contains the main application components.
+-   **`components`**: Contains reusable UI components.
+-   **`utils`**: Contains utility functions.
+-   **`src/dummy.json`**: Contains dummy data for the portfolio.
 
 ### Configuration Files
 
-- **`tailwind.config.ts`**: Tailwind CSS configuration.
-- **`tsconfig.json`**: TypeScript configuration.
-- **`next.config.mjs`**: Next.js configuration.
+-   **`tailwind.config.ts`**: Tailwind CSS configuration.
+-   **`tsconfig.json`**: TypeScript configuration.
+-   **`next.config.mjs`**: Next.js configuration.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Node.js 18+ installed
-- pnpm or npm package manager
-- Git
+-   Node.js 18+ installed
+-   pnpm or npm package manager
+-   Git
 
 ### Installation Steps
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/tehseen01/the-portfolio.git
-   ```
+    ```sh
+    git clone https://github.com/muhafs/portfolio_101
+    ```
 
 2. Navigate to the project directory:
 
-   ```sh
-   cd the-portfolio
-   ```
+    ```sh
+    cd the-portfolio
+    ```
 
 3. Install the dependencies:
 
-   ```sh
-   npm install
-   ```
+    ```sh
+    npm install
+    ```
 
 4. Start the development server:
 
-   ```sh
-   npm start
-   ```
+    ```sh
+    npm start
+    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
@@ -119,10 +119,10 @@ Contributions are welcome! Please follow these steps:
 
 ### Code Style Guidelines
 
-- Follow the ESLint configuration
-- Write meaningful commit messages
-- Add appropriate documentation
-- Ensure all tests pass
+-   Follow the ESLint configuration
+-   Write meaningful commit messages
+-   Add appropriate documentation
+-   Ensure all tests pass
 
 ## 📝 License
 
@@ -132,10 +132,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, reach out through:
 
-- Email: tehseen.type@gmail.com
-- Twitter: [@tehseen_type](https://twitter.com/tehseen_type)
-- LinkedIn: [Mohd Tehseen](https://linkedin.com/in/tehseen.01)
+-   Email: muhamadhaspin@gmail.com
+-   LinkedIn: [Muhamad Haspin](https://linkedin.com/in/muhafs)
 
 ---
 
-Built with ❤️ by [Mohd Tehseen]
+Built with ❤️ by [Muhamad Haspin]
